@@ -21,4 +21,4 @@ I'm a Computer Engineering student at **CUCEI (UdeG)** with a focus on building 
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/carlos-daniel-cuevas-quiles-2926113b9 ) | [Email](dalex12391.d1@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/carlos-daniel-cuevas-quiles-2926113b9 ) | [Email]: dalex12391.d1@hotmail.com)
