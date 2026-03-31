@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! I'm Carlos Daniel 👋 
 
-<!--
-**CarlosCuevasQ/CarlosCuevasQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Computer Engineering Student | Backend Developer 
+I'm a Computer Engineering student at **CUCEI (UdeG)** with a focus on building robust backend systems and managing complex databases. 
 
-Here are some ideas to get you started:
+- 🎓 Currently finishing my degree in **Computer Engineering (ICOM)**.
+- 👨‍🏫 Leading a **Python Programming Fundamentals Workshop** for university students.
+- 🛠️ Building **modular systems** and exploring **Cloud Architectures**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+---
+
+### 📊 GitHub Stats
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosCuevasQ&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCuevasQ&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/carlos-daniel-cuevas-quiles-2926113b9 ) | [Email](dalex12391.d1@hotmail.com)
