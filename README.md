@@ -17,11 +17,6 @@ I'm a Computer Engineering student at **CUCEI (UdeG)** with a focus on building 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
----
-
-### 📊 GitHub Stats
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosCuevasQ&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCuevasQ&layout=compact&theme=radical)
 
 ---
 
